@@ -37,10 +37,14 @@ Component Rendering Page:
 ![image](https://user-images.githubusercontent.com/67890839/151690528-5417cc43-e5d7-4b88-a64a-079d87799861.png)
 
 
-### Custom Navbar, Textarea, Button, P Tag, H Tags
+### Features - Custom Navbar, Textarea, Button, P Tag, H Tags
 
-User can immediately see created navbar after providing links and names for the anchor tags, choosing a colour, background colour, and font size.
-Similarly, providing width height, colors for customizing a button, and specific rows and columns occupied for the custom textarea, P tag and H tags and the respective element is rendered on the page.
+* Clicking on button on Home Page takes us to the main Component Rendering Page.
+* User can immediately see created navbar after providing links and names for the anchor tags, choosing a colour, background colour, and font size.
+* Similarly, providing width, height, colors for customizing a button.
+* Specify rows and columns occupied along with color for the custom textarea
+* Specify P tag and H tags's color and size.
+* The respective element is rendered on the page.
 
 ![image](https://user-images.githubusercontent.com/67890839/151690598-618c2513-a839-4264-b632-35a32cfbb2fe.png)
 
@@ -53,13 +57,14 @@ Similarly, providing width height, colors for customizing a button, and specific
 ![image](https://user-images.githubusercontent.com/67890839/151690711-e61b1189-022c-41ef-ba09-8c4cc53864be.png)
 
 
-## Software Used
-
+## Technologies Used
+* npm
+* Javascript 
 * React
 * TailwindCSS
 * Netlify
 
-### Limitations :crying_cat_face:
+### To-Do :checkered_flag:	
 Additionally, we implemented basic elements as drag and droppable, but ran out of time and found errors to implement them for custom elements we used on our website.
 This project is definitely scalable, and given more time we could've definitely implemented drag and drop feature, along with some more style features and HTML elements.
 We tried working with the following packages: 
